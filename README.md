@@ -1,7 +1,7 @@
 # Plastic-Bag-Pop-sounds
 This database is a collection of audio clips that can be used to train a Neural Network for gun shot like audio events.  The audio clips contained in this database is a collection of plastic bag pop sounds in different environments at different distances from different microphones.
 
-Please cite the article from which this database was created for in order to train a gunshot like audio event Neural Network.
+Please cite the article from which this database was created for, in order to train a gunshot like audio event Neural Network.
 
 The main article can be found here:
 https://www.mdpi.com/1424-8220/21/21/7320
